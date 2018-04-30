@@ -1,0 +1,5 @@
+﻿FILE QUARANTINED
+
+Microsoft Forefront Protection for SharePoint removed a file since it was found to be infected.
+File name: "LSIUtil_1.62.zip->lsiutil.efi"
+Malware name: "Suspicious!SA"
